@@ -81,7 +81,7 @@ public class Coding : MonoBehaviour
 ## Output :
 
 
-![alt text](image.png)
+![alt text](image-1.png)
 ## Result :
 
 The above C# coding is successfully redirecting the scene in the unity engine.
